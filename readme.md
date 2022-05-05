@@ -74,9 +74,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 This repo contains the following data files:
 
-* [`data1.csv`](./data.csv) Information on covid variants in each country. Dataset compiled by Kaggle user Pritesh Raj [(Click for source)](https://www.python.org)
-* [`www.covariants.org`](./data.csv) add info about what we used from this resource
-* [`ourworldindata.org/coronavirus`](./data.csv) add info about what we used from this resource
+* [`data1.csv`](./data.csv) Information on covid variants in each country. Dataset compiled from [GISAID](https://www.hh.org) and [CoVariants](https://www.hh.org) by Kaggle user Pritesh Raj [[Click for source]](https://www.python.org)
+* [`data2.csv`](./data.csv) add info about what we used from this resource
+* [`data3.csv`](./data.csv) add info about what we used from this resource
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
