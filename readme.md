@@ -74,7 +74,7 @@
 
 
 <!-- DATASETS -->
-#### Data
+### Data
 This dataset was sourced from Kaggle and ['https://www.kaggle.com/datasets/priteshraj10/covid-variants.csv'](compiled by Kaggle user Pritesh Raj.) Data in this dataset was retrieved from GISaid, a publicly available database for scientists.
 
 * [`www.gsaid.org`](gsaid.org): add info
@@ -84,19 +84,19 @@ This dataset was sourced from Kaggle and ['https://www.kaggle.com/datasets/prite
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-#### Data Cleaning
+### Data Cleaning
 Explain
 
-#### EDA
+### EDA
 Explain, add imgs
 
-#### Preprocessing
+### Preprocessing
 Explain
 
-#### Modeling
+### Modeling
 Explain
 
-#### Conclusions
+### Conclusions
 * list
 * list
 * list
