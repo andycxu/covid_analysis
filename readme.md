@@ -25,11 +25,6 @@
     <br />
     <a href="https://github.com/rowanschaefer/act_sat_analysis"><strong>Explore the data »</strong></a>
     <br />
-    <br />
-    ·
-    <a href="https://github.com/rowanschaefer/act_sat_analysis/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/rowanschaefer/act_sat_analysis/issues">Request Feature</a>
   </p>
 </div>
 
