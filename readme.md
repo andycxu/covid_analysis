@@ -142,7 +142,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Rowan - [@rowanschaefer](https://linkedin.com/in/rowanschaefer) - rgscha02@gmail.com<br />
+Rowan - [@rowanschaefer](https://linkedin.com/in/rowanschaefer) - [github @rowangayleschaefer](https://github.com/rowangayleschaefer) -  rgscha02@gmail.com<br />
 Emily - @emily https://emily<br />
 Daniel - @daniel https://daniel<br />
 Andy - @andy https://andy<br />
