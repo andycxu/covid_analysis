@@ -66,8 +66,8 @@
 ### Research Questions
 
 * How do covid variants vary by geographic location?
-* list 
-* list
+* Vaccination rate vs covid rate for diff countries?
+* 
 
 * Time series analysis?
 
