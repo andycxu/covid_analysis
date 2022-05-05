@@ -54,8 +54,9 @@
 
 
 <!-- ABOUT THE PROJECT -->
-### About the Project
-<b>Add problem statement/executive summary here.</b> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+## About the Project
+
+Add problem statement/executive summary here. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 ### Research Questions
 
@@ -64,66 +65,59 @@
 * list
 * list
 
-<br />
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-<!-- DATA -->
 ### Data
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 This repo contains the following data files:
 
-* [`data1.csv`](./data.csv) Information on covid variants in each country. Dataset compiled from [GISAID](https://www.hh.org) and [CoVariants.](https://www.hh.org) [[Click for source]](https://www.python.org)
-* [`data2.csv`](./data.csv) add info about what we used from this resource
-* [`data3.csv`](./data.csv) add info about what we used from this resource
+* [`dataset.csv`](./data.csv) Information on covid variants in each country. Dataset compiled from [GISAID](https://www.hh.org) and [CoVariants.](https://www.hh.org) [[Click for source]](https://www.python.org)
+* [`dataset2.csv`](./data.csv) Add additional dataset and information here
+* [`dataset3.csv`](./data.csv) Add additional dataset and information here
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
+<!-- PROCESS -->
+## Process
 
-<!-- CLEANING -->
+<!-- DATA CLEANING -->
 ### Data Cleaning
 [link to data cleaning notebook](https://www.python.org)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p></p>
 
 <!-- EDA -->
 ### EDA
 [link to EDA notebook](https://www.python.org)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Add brief overview of EDA steps here. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
+<p></p>
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-<!-- PREPROCESS -->
+<!-- PREPROCESSING -->
 ### Preprocessing
 [link to preprocessing/modeling notebook](https://www.python.org)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Add brief overview of preprocessing steps here. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
+<p></p>
 
 <!-- MODELING -->
 ### Modeling
 [link to preprocessing/modeling notebook](https://www.python.org)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Add info about modeling process here. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
+<p></p>
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<!-- FINDINGS -->
+### Findings
 
+Add a brief overview of findings and conclusions here. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-<!-- CONCLUSIONS -->
-### Conclusions
 * list
 * list
 * list
@@ -154,15 +148,6 @@ Don't forget to give the project a star! Thanks again!
 
 
 
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 <!-- CONTACT CONTRIBUTORS -->
 ## Contact Contributors
 
@@ -174,9 +159,15 @@ Andy - @andy https://andy<br />
 Project Link: [https://github.com/rowanschaefer/act_sat_analysis](https://github.com/rowanschaefer/covid_analysis)
 
 
-<br />
 <p align="right">(<a href="#top">back to top</a>)</p>
-<br />
+
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
