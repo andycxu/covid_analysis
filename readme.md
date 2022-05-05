@@ -16,11 +16,11 @@
     <img src="https://content.presspage.com/uploads/1369/1920_sars-cov-2-without-background.png?10000" alt="Logo" width="80" height="80">
   </a>
 
-<h1 align="center"> Covid-19 Modeling/Analysis/Insert Proj Title Here </h1>
+<h2 align="center"> Covid-19 Project/Insert Proj Title </h2>
 <p align="center">
     Insert Project Subtitle or Description
     <br />
-    <a href="https://github.com/rowanschaefer/act_sat_analysis"><strong>Explore the data »</strong></a>
+    <a href="https://github.com/rowanschaefer/act_sat_analysis"><strong>Link to web app? »</strong></a>
     <br />
   </p>
 </div>
