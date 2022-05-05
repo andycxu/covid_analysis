@@ -157,7 +157,6 @@ Project Link: [https://github.com/rowanschaefer/act_sat_analysis](https://github
 ## Acknowledgments
 
 * *thanks for the readme template [othneildrew](https://github.com/rowanschaefer/Best-README-Template)
-* *thanks ben for helping me with that code I couldn't figure out
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
