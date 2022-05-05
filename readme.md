@@ -1,6 +1,5 @@
 <div id="top"></div>
 
-
 <!-- PROJECT SHIELDS -->
 
 [![Contributors][contributors-shield]][contributors-url]
@@ -10,7 +9,6 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -18,9 +16,8 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center"> Title </h3>
-
-  <p align="center">
+<h3 align="center"> Add Title Here </h3>
+<p align="center">
     Completed for General Assembly DSI Immersive
     <br />
     <a href="https://github.com/rowanschaefer/act_sat_analysis"><strong>Explore the data »</strong></a>
@@ -39,14 +36,14 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#data">Data</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#built-with">Built With</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#process1">Data Cleaning & EDA</a></li>
+        <li><a href="#installation">Modeling</a></li>
       </ul>
     </li>
     <li><a href="#datasets">Datasets</a></li>
@@ -59,23 +56,22 @@
 </details>
 
 
-
 <!-- ABOUT THE PROJECT -->
-## About The Project
-
-### Problem Statement
+# About the Project
+<b>Add problem statement/executive summary here.</b> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 ### Research Questions
 
-* How do covid variants vary by geographic location?
-* Vaccination rate vs covid rate for diff countries?
-* 
+* list
+* list
+* list
+* list
 
-* Time series analysis?
+<br />
+<p align="right">(<a href="#top">back to top</a>)</p>
+<br />
 
-
-
-<!-- DATASETS -->
+<!-- DATA -->
 ### Data
 This dataset was sourced from Kaggle and ['https://www.kaggle.com/datasets/priteshraj10/covid-variants.csv'](compiled by Kaggle user Pritesh Raj.) Data in this dataset was retrieved from GISaid, a publicly available database for scientists.
 
@@ -83,35 +79,69 @@ This dataset was sourced from Kaggle and ['https://www.kaggle.com/datasets/prite
 * [`www.covariants.org`](CoVariants.org): "CoVariants: SARS-CoV-2 Mutations and Variants of Interest."
 * Second dataset from https://ourworldindata.org/coronavirus, https://github.com/owid/covid-19-data
 
-
+<br />
 <p align="right">(<a href="#top">back to top</a>)</p>
+<br />
 
 
-### Data Cleaning
-Explain
-
-### EDA
-Explain, add imgs
-
-### Preprocessing
-Explain
-
-### Modeling
-Explain
-
-### Conclusions
-* list
-* list
-* list
-
-
-
+<!-- BUILT WITH -->
 ### Built With
 
 * [python](https://www.python.org)
 * [tableau](https://www.tableau.com)
 
+<br />
 <p align="right">(<a href="#top">back to top</a>)</p>
+<br />
+
+
+<!-- PROCESS1 -->
+### Data Cleaning
+[link to data cleaning notebook](https://www.python.org)
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+<br />
+<p align="right">(<a href="#top">back to top</a>)</p>
+<br />
+
+### EDA
+[link to EDA notebook](https://www.python.org)
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+<br />
+<p align="right">(<a href="#top">back to top</a>)</p>
+<br />
+
+### Preprocessing
+[link to preprocessing/modeling notebook](https://www.python.org)
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+<br />
+<p align="right">(<a href="#top">back to top</a>)</p>
+<br />
+
+### Modeling
+[link to preprocessing/modeling notebook](https://www.python.org)
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+<br />
+<p align="right">(<a href="#top">back to top</a>)</p>
+<br />
+
+### Conclusions
+* list
+* list
+* list
+* list
+
+
+<br />
+<p align="right">(<a href="#top">back to top</a>)</p>
+<br />
 
 
 
@@ -127,7 +157,9 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+<br />
 <p align="right">(<a href="#top">back to top</a>)</p>
+<br />
 
 
 
@@ -140,8 +172,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 
-<!-- CONTACT -->
-## Contact
+<!-- CONTACT CONTRIBUTORS -->
+## Contact Contributors
 
 Rowan - [linkedin @rowanschaefer](https://linkedin.com/in/rowanschaefer) - [github @rowangayleschaefer](https://github.com/rowangayleschaefer)<br />
 Emily - @emily https://emily<br />
@@ -150,14 +182,16 @@ Andy - @andy https://andy<br />
 
 Project Link: [https://github.com/rowanschaefer/act_sat_analysis](https://github.com/rowanschaefer/covid_analysis)
 
+
+<br />
 <p align="right">(<a href="#top">back to top</a>)</p>
+<br />
 
 
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* *thanks for the readme template [othneildrew](https://github.com/rowanschaefer/Best-README-Template)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
