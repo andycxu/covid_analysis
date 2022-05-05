@@ -64,19 +64,22 @@
 ### Problem Statement
 
 ### Research Questions
-Research q here
 
-* list
+* How do covid variants vary by geographic location?
 * list 
 * list
 
+* Time series analysis?
+
+
+
 <!-- DATASETS -->
 #### Data
-Add info about data/background here, data collection
-All datasets are included in the "data" folder. 
+This dataset was sourced from Kaggle and ['https://www.kaggle.com/datasets/priteshraj10/covid-variants.csv'](compiled by Kaggle user Pritesh Raj.) Data in this dataset was retrieved from GISaid, a publicly available database for scientists.
 
-* [`act_2019_ca.csv`](./data/act_2019_ca.csv): First dataset link
-* [`sat_2019_ca.csv`](./data/sat_2019_ca.csv): Second dataset link
+* [`www.gsaid.org`](gsaid.org): add info
+* [`www.covariants.org`](CoVariants.org): "CoVariants: SARS-CoV-2 Mutations and Variants of Interest."
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
