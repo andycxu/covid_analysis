@@ -66,7 +66,7 @@
 
 <br />
 <p align="right">(<a href="#top">back to top</a>)</p>
-<br />
+
 
 <!-- DATA -->
 ### Data
@@ -76,9 +76,9 @@ This dataset was sourced from Kaggle and ['https://www.kaggle.com/datasets/prite
 * [`www.covariants.org`](CoVariants.org): "CoVariants: SARS-CoV-2 Mutations and Variants of Interest."
 * Second dataset from https://ourworldindata.org/coronavirus, https://github.com/owid/covid-19-data
 
-<br />
+
 <p align="right">(<a href="#top">back to top</a>)</p>
-<br />
+
 
 
 <!-- CLEANING -->
@@ -87,9 +87,8 @@ This dataset was sourced from Kaggle and ['https://www.kaggle.com/datasets/prite
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-<br />
+
 <p align="right">(<a href="#top">back to top</a>)</p>
-<br />
 
 <!-- EDA -->
 ### EDA
@@ -97,9 +96,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-<br />
+
 <p align="right">(<a href="#top">back to top</a>)</p>
-<br />
+
 
 <!-- PREPROCESS -->
 ### Preprocessing
@@ -107,9 +106,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-<br />
+
 <p align="right">(<a href="#top">back to top</a>)</p>
-<br />
+
 
 <!-- MODELING -->
 ### Modeling
@@ -117,9 +116,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-<br />
+
 <p align="right">(<a href="#top">back to top</a>)</p>
-<br />
+
 
 <!-- CONCLUSIONS -->
 ### Conclusions
@@ -129,9 +128,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 * list
 
 
-<br />
+
 <p align="right">(<a href="#top">back to top</a>)</p>
-<br />
+
 
 
 
@@ -147,9 +146,9 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<br />
+
 <p align="right">(<a href="#top">back to top</a>)</p>
-<br />
+
 
 
 
