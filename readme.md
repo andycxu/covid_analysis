@@ -16,7 +16,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h2 align="center"> Project Title </h2>
+<h1 align="center"> Project Title </h1>
 <p align="center">
     Project Subtitle
     <br />
@@ -54,7 +54,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-# About the Project
+### About the Project
 <b>Add problem statement/executive summary here.</b> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 ### Research Questions
