@@ -91,11 +91,13 @@ This repo contains the following data files:
 
 <!-- HIGHLIGHTS -->
 ## Highlights
-<img src='https://cdn.dribbble.com/users/1579320/screenshots/6948631/media/5a358bb239bd9d441c39e985107985cd.png' alt="placeholder img" width="600" height="400">
-*This is a mockup image. We might want to add some of our best vizualizations here, link to a web app, or imbed something cool*<br />
-<img src='https://cdn.dribbble.com/users/1579320/screenshots/6948631/media/5a358bb239bd9d441c39e985107985cd.png' alt="placeholder img" width="600" height="400"><br />
-<img src='https://cdn.dribbble.com/users/1579320/screenshots/6948631/media/5a358bb239bd9d441c39e985107985cd.png' alt="placeholder img" width="600" height="400">
 
+<div align="center">
+<img src='https://cdn.dribbble.com/users/1579320/screenshots/6948631/media/5a358bb239bd9d441c39e985107985cd.png' alt="placeholder img" width="800" height="500">
+*This is a mockup image. We might want to add some of our best vizualizations here, link to a web app, or imbed something cool*<br />
+<center><img src='https://cdn.dribbble.com/users/1579320/screenshots/6948631/media/5a358bb239bd9d441c39e985107985cd.png' alt="placeholder img" width="800" height="500">
+<img src='https://cdn.dribbble.com/users/1579320/screenshots/6948631/media/5a358bb239bd9d441c39e985107985cd.png' alt="placeholder img" width="800" height="500">
+</div>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -105,42 +107,42 @@ This repo contains the following data files:
 ## Process
 
 <!-- DATA CLEANING -->
-### [Data Cleaning](https://www.github.com/link_to_our_data_cleaning_notebook)
+#### [Data Cleaning](https://www.github.com/link_to_our_data_cleaning_notebook)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-<p></p>
+<br /></p>
 
 
 
 <!-- EDA -->
-### [EDA](https://www.github.com/link_to_our_EDA_notebook)
+#### [EDA](https://www.github.com/link_to_our_EDA_notebook)
 
 Add brief overview of EDA steps here. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-<p></p>
+<br /></p>
 
 
 
 <!-- PREPROCESSING -->
-### [Preprocessing](https://www.github.com/link_to_our_modeling_notebook)
+#### [Preprocessing](https://www.github.com/link_to_our_modeling_notebook)
 
 Add brief overview of preprocessing steps here. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-<p></p>
+<br /></p>
 
 
 
 <!-- MODELING -->
-### [Modeling](https://www.github.com/link_to_our_modeling_notebook)
+#### [Modeling](https://www.github.com/link_to_our_modeling_notebook)
 
 Add info about modeling process here. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-<p></p>
+<br /></p>
 
 
 <!-- FINDINGS -->
-### [Findings](https://www.github.com/link_to_our_modeling_notebook_or_presentation)
+#### [Findings](https://www.github.com/link_to_our_modeling_notebook_or_presentation)
 
 Add a brief overview of findings and conclusions here. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
