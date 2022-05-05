@@ -74,8 +74,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 This repo contains the following data files:
 
-* [`data1.csv`](./data.csv) Information on covid variants in each country. Dataset compiled by Kaggle user Pritesh Raj [source url]
-(https://www.kaggle.com/datasets/priteshraj10/covid-variants.csv)
+* [`data1.csv`](./data.csv) Information on covid variants in each country. Dataset compiled by Kaggle user Pritesh Raj [(Click for source)](https://www.python.org)
 * [`www.covariants.org`](./data.csv) add info about what we used from this resource
 * [`ourworldindata.org/coronavirus`](./data.csv) add info about what we used from this resource
 
