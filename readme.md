@@ -39,10 +39,7 @@
         <li><a href="#data">Data</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#built-with">Built With</a>
-      <ul>
-        <li><a href="#process1">Data Cleaning & EDA</a></li>
+        <li><a href="#process">Data Cleaning & EDA</a></li>
         <li><a href="#installation">Modeling</a></li>
       </ul>
     </li>
@@ -84,18 +81,7 @@ This dataset was sourced from Kaggle and ['https://www.kaggle.com/datasets/prite
 <br />
 
 
-<!-- BUILT WITH -->
-### Built With
-
-* [python](https://www.python.org)
-* [tableau](https://www.tableau.com)
-
-<br />
-<p align="right">(<a href="#top">back to top</a>)</p>
-<br />
-
-
-<!-- PROCESS1 -->
+<!-- CLEANING -->
 ### Data Cleaning
 [link to data cleaning notebook](https://www.python.org)
 
@@ -105,6 +91,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <p align="right">(<a href="#top">back to top</a>)</p>
 <br />
 
+<!-- EDA -->
 ### EDA
 [link to EDA notebook](https://www.python.org)
 
@@ -114,6 +101,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <p align="right">(<a href="#top">back to top</a>)</p>
 <br />
 
+<!-- PREPROCESS -->
 ### Preprocessing
 [link to preprocessing/modeling notebook](https://www.python.org)
 
@@ -123,6 +111,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <p align="right">(<a href="#top">back to top</a>)</p>
 <br />
 
+<!-- MODELING -->
 ### Modeling
 [link to preprocessing/modeling notebook](https://www.python.org)
 
@@ -132,6 +121,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <p align="right">(<a href="#top">back to top</a>)</p>
 <br />
 
+<!-- CONCLUSIONS -->
 ### Conclusions
 * list
 * list
