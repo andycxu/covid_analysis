@@ -81,6 +81,7 @@ This dataset was sourced from Kaggle and ['https://www.kaggle.com/datasets/prite
 
 * [`www.gsaid.org`](gsaid.org): add info
 * [`www.covariants.org`](CoVariants.org): "CoVariants: SARS-CoV-2 Mutations and Variants of Interest."
+* Second dataset from https://ourworldindata.org/coronavirus, https://github.com/owid/covid-19-data
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
