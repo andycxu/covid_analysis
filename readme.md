@@ -70,9 +70,11 @@
 
 <!-- DATA -->
 ### Data
-This dataset was sourced from Kaggle and [](compiled by Kaggle user Pritesh Raj.) Data in this dataset was retrieved from GISaid, a publicly available database for scientists.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-* [`data1.csv`](./data.csv) This dataset provides information on covid variants in each country. Dataset compiled by Kaggle user Pritesh Raj [(source url)]
+This repo contains the following data files:
+
+* [`data1.csv`](./data.csv) Information on covid variants in each country. Dataset compiled by Kaggle user Pritesh Raj [source url]
 (https://www.kaggle.com/datasets/priteshraj10/covid-variants.csv)
 * [`www.covariants.org`](./data.csv) add info about what we used from this resource
 * [`ourworldindata.org/coronavirus`](./data.csv) add info about what we used from this resource
