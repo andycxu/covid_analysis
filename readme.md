@@ -13,7 +13,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/rowangayleschaefer">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://content.presspage.com/uploads/1369/1920_sars-cov-2-without-background.png?10000" alt="Logo" width="80" height="80">
   </a>
 
 <h1 align="center"> Project Title </h1>
@@ -150,13 +150,12 @@ Don't forget to give the project a star! Thanks again!
 
 <!-- CONTACT CONTRIBUTORS -->
 ## Contact Contributors
+++++ These links are wrong and need to be updated with correct info ++++
 
 Rowan - [linkedin](https://linkedin.com/in/rowanschaefer) - [github](https://github.com/rowangayleschaefer) - rgscha02@gmail.com<br /> 
 Andy - [linkedin](https://linkedin.com/in/andy) - [github](https://github.com/andy) - andy@mail.com <br /> 
 Emily - [linkedin](https://linkedin.com/in/emily) - [github](https://github.com/emily) - emily@mail.com<br />
 Daniel - [linkedin](https://linkedin.com/in/daniel) - [github](https://github.com/daniel) - daniel@mail.com<br />
-
-++++ These links are wrong and need to be updated with correct info ++++
 
 Project Link: [https://github.com/rowanschaefer/act_sat_analysis](https://github.com/rowanschaefer/covid_analysis)
 
