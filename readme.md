@@ -51,13 +51,17 @@
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
-<p>
+<p></p>
+
+
 
 <!-- ABOUT THE PROJECT -->
 ## About the Project
 
 Add problem statement/executive summary here. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 <p></p>
+
   
 ### Research Questions
 
@@ -68,8 +72,10 @@ Add problem statement/executive summary here. Lorem ipsum dolor sit amet, consec
 
 <p></p>
 
+
+
 ### Data
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br />
+Add an explanation about data collection and or dataset sourcing. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.<br />
 
 This repo contains the following data files:
 
@@ -81,43 +87,60 @@ This repo contains the following data files:
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
+
+
+<!-- HIGHLIGHTS -->
+## Highlights
+<img src='https://cdn.dribbble.com/users/1579320/screenshots/6948631/media/5a358bb239bd9d441c39e985107985cd.png' alt="placeholder img" width="600" height="400">
+*This is a mockup image. We might want to add some of our best vizualizations here, link to a web app, or imbed something cool*<br />
+<img src='https://cdn.dribbble.com/users/1579320/screenshots/6948631/media/5a358bb239bd9d441c39e985107985cd.png' alt="placeholder img" width="600" height="400"><br />
+<img src='https://cdn.dribbble.com/users/1579320/screenshots/6948631/media/5a358bb239bd9d441c39e985107985cd.png' alt="placeholder img" width="600" height="400">
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
 <!-- PROCESS -->
 ## Process
 
 <!-- DATA CLEANING -->
-### Data Cleaning
-[link to data cleaning notebook](https://www.python.org)
+### [Data Cleaning](https://www.github.com/link_to_our_data_cleaning_notebook)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 <p></p>
 
+
+
 <!-- EDA -->
-### EDA
-[link to EDA notebook](https://www.python.org)
+### [EDA](https://www.github.com/link_to_our_EDA_notebook)
 
 Add brief overview of EDA steps here. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 <p></p>
 
+
+
 <!-- PREPROCESSING -->
-### Preprocessing
-[link to preprocessing/modeling notebook](https://www.python.org)
+### [Preprocessing](https://www.github.com/link_to_our_modeling_notebook)
 
 Add brief overview of preprocessing steps here. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 <p></p>
 
+
+
 <!-- MODELING -->
-### Modeling
-[link to preprocessing/modeling notebook](https://www.python.org)
+### [Modeling](https://www.github.com/link_to_our_modeling_notebook)
 
 Add info about modeling process here. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 <p></p>
 
+
 <!-- FINDINGS -->
-### Findings
+### [Findings](https://www.github.com/link_to_our_modeling_notebook_or_presentation)
 
 Add a brief overview of findings and conclusions here. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
@@ -129,7 +152,6 @@ Add a brief overview of findings and conclusions here. Lorem ipsum dolor sit ame
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 
