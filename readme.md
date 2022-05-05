@@ -70,11 +70,12 @@
 
 <!-- DATA -->
 ### Data
-This dataset was sourced from Kaggle and ['https://www.kaggle.com/datasets/priteshraj10/covid-variants.csv'](compiled by Kaggle user Pritesh Raj.) Data in this dataset was retrieved from GISaid, a publicly available database for scientists.
+This dataset was sourced from Kaggle and [](compiled by Kaggle user Pritesh Raj.) Data in this dataset was retrieved from GISaid, a publicly available database for scientists.
 
-* [`www.gsaid.org`]('https://gsaid.org') add info about what we used from this resource.
-* [`www.covariants.org`]('https://CoVariants.org') add info about what we used from this resource
-* [`ourworldindata.org/coronavirus`]('https://github.com/owid/covid-19-data') add info about what we used from this resource
+* [`data1.csv`](./data.csv) This dataset provides information on covid variants in each country. Dataset compiled by Kaggle user Pritesh Raj [(source url)]
+(https://www.kaggle.com/datasets/priteshraj10/covid-variants.csv)
+* [`www.covariants.org`](./data.csv) add info about what we used from this resource
+* [`ourworldindata.org/coronavirus`](./data.csv) add info about what we used from this resource
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
