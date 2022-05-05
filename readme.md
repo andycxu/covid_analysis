@@ -32,6 +32,8 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
+ /* note, I'll go through and update formatting for this later! Right now the navigation won't work as it includes sections that have been deleted */
+  
   <summary>Table of Contents</summary>
   <ol>
     <li>
