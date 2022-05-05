@@ -91,13 +91,11 @@ This repo contains the following data files:
 
 <!-- HIGHLIGHTS -->
 ## Highlights
+*These are placeholder images. We might want to add some of our best vizualizations here, link to a web app, or imbed something cool*<br />
 
-<div align="center">
+<center><img src='https://cdn.dribbble.com/users/1579320/screenshots/6948631/media/5a358bb239bd9d441c39e985107985cd.png' alt="placeholder img" width="800" height="500"><br />
 <img src='https://cdn.dribbble.com/users/1579320/screenshots/6948631/media/5a358bb239bd9d441c39e985107985cd.png' alt="placeholder img" width="800" height="500">
-*This is a mockup image. We might want to add some of our best vizualizations here, link to a web app, or imbed something cool*<br />
-<center><img src='https://cdn.dribbble.com/users/1579320/screenshots/6948631/media/5a358bb239bd9d441c39e985107985cd.png' alt="placeholder img" width="800" height="500">
-<img src='https://cdn.dribbble.com/users/1579320/screenshots/6948631/media/5a358bb239bd9d441c39e985107985cd.png' alt="placeholder img" width="800" height="500">
-</div>
+</center>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
