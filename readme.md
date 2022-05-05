@@ -151,10 +151,10 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT CONTRIBUTORS -->
 ## Contact Contributors
 
-Rowan - linkedin [@rowanschaefer](https://linkedin.com/in/rowanschaefer) - github [@rowangayleschaefer](https://github.com/rowangayleschaefer)<br />
-Andy - linkedin [@andy](https://linkedin.com/in/andy) - github [@andy](https://github.com/andy)<br />
-Emily - linkedin [@emily](https://linkedin.com/in/emily) - github [@emily](https://github.com/emily)<br />
-Daniel - linkedin [@daniel](https://linkedin.com/in/daniel) - github [@daniel](https://github.com/daniel)<br />
+Rowan - [linkedin](https://linkedin.com/in/rowanschaefer) - [github](https://github.com/rowangayleschaefer)<br /> - rgscha02@gmail.com
+Andy - [linkedin](https://linkedin.com/in/andy) - [github](https://github.com/andy)<br /> - andy@mail.com
+Emily - [linkedin](https://linkedin.com/in/emily) - [github](https://github.com/emily)<br /> emily@mail.com
+Daniel - [linkedin](https://linkedin.com/in/daniel) - [github](https://github.com/daniel)<br /> daniel@mail.com
 
 
 Project Link: [https://github.com/rowanschaefer/act_sat_analysis](https://github.com/rowanschaefer/covid_analysis)
