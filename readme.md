@@ -11,13 +11,13 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/rowanschaefer">
+  <a href="https://github.com/rowangayleschaefer">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h2 align="center"> Project Title </h2>
 <p align="center">
-    Completed for General Assembly DSI Immersive
+    Project Subtitle
     <br />
     <a href="https://github.com/rowanschaefer/act_sat_analysis"><strong>Explore the data »</strong></a>
     <br />
