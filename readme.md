@@ -8,7 +8,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn2][linkedin-shield]][linkedin-url]
- </ div>
 
 <!-- PROJECT LOGO -->
 <br />
