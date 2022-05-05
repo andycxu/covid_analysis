@@ -16,7 +16,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center"> Add Title Here </h3>
+<h2 align="center"> Project Title </h2>
 <p align="center">
     Completed for General Assembly DSI Immersive
     <br />
