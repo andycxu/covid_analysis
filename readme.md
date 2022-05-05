@@ -18,12 +18,12 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">ACT & SAT Analysis </h3>
+<h3 align="center"> Title </h3>
 
   <p align="center">
     Completed for General Assembly DSI Immersive
     <br />
-    <a href="https://github.com/rowanschaefer/act_sat_analysis"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/rowanschaefer/act_sat_analysis"><strong>Explore the data »</strong></a>
     <br />
     <br />
     ·
@@ -66,9 +66,42 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+### Problem Statement
 
-Students from lower-income areas  and backgrounds have a higher barrier to achieving high scores on the SAT and ACT; in addition to systemic factors, there are also practical ones (such as the cost of re-taking the test, study materials, and tutoring.) Though this topic is already well-known and studied, this exploratory analysis intends to provide a broad overview of the relationship between SES and standardized testing outcomes in California. 
+### Research Questions
+Research q here
+
+* list
+* list 
+* list
+
+<!-- DATASETS -->
+#### Data
+Add info about data/background here, data collection
+All datasets are included in the "data" folder. 
+
+* [`act_2019_ca.csv`](./data/act_2019_ca.csv): First dataset link
+* [`sat_2019_ca.csv`](./data/sat_2019_ca.csv): Second dataset link
+
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+
+#### Data Cleaning
+Explain
+
+#### EDA
+Explain, add imgs
+
+#### Preprocessing
+Explain
+
+#### Modeling
+Explain
+
+#### Conclusions
+* list
+* list
+* list
 
 
 
@@ -79,75 +112,6 @@ Students from lower-income areas  and backgrounds have a higher barrier to achie
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-
-### Prerequisites
-
-All you need to run this is python.
-* Python
-  ```sh
-  pip --version
-  ```
-
-### Installation
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/rowanschaefer/act_sat_analysis.git
-   ```
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- DATASETS -->
-## Datasets
-
-All datasets are included in the "data" folder. 
-
-* [`act_2019_ca.csv`](./data/act_2019_ca.csv): 2019 ACT Scores in California by School, dataset provided by General Assembly
-* [`sat_2019_ca.csv`](./data/sat_2019_ca.csv): 2019 SAT Scores in California by School, dataset provided by General Assembly
-* [`CA_Schools_Key.csv`](./data/CA_Schools_Key.csv): California Schools Key. This csv contains CDSCodes, city/district info, school name, and zip/coordinates for schools in CA.
-* [`Education1970_to_2019.csv`](./data/Education1970_to_2019.csv): Education 1970 to 2019. This data is used to find percentages of education levels by county from 2015-2019.
-* [`CA_Schools_Key.csv`](./data/CA_Schools_Key.csv): California Schools Key. This csv contains CDSCodes, city/district info, school name, and zip/coordinates for schools in CA.
-* [`frpm1718.csv`](./data/frpm1718.csv): Percentages of students at each school in CA who qualified for free/reduced lunch plans, 2017-2018 school year.
-* [`frpm1819.csv`](./data/frpm1819.csv): Percentages of students at each school in CA who qualified for free/reduced lunch plans, 2018-2019 school year.
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- DATA DICTIONARY -->
-## Data Dictionary
-|      Feature     |    Type     |   Dataset   |       Description              |
-|---|---|---|---|
-| **mini_cds**   |  *integer*  | 2010 census | The last 6 digits from a California School Code or CDS (City, District, School) code. Used to join dataframes. | 
-| **school**  |  *object*    | 2010 census | Name of the school. Includes high schools in CA |
-| **school_type**  |  *object*    | 2010 census | Type of school - i.e. charter schools, private, public. |
-| **county**  |  *object*    | 2010 census | Name of the county the school is located in |
-| **free_meal_eligibility**  |  *float*    | 2010 census | Percentage of students who qualified for free meals, average of years 2018 and 2019. |
-| **freereduced_eligibility**  |  *float*    | 2010 census | Percentage of students who qualified for free or reduced meal plans, average of years 2018 and 2019.|
-|    |    |   | *note, these two categories are not mutually exclusive.*|
-| **sat_pct_math_benchmark**  |  *float*    | 2010 census | Percentage of students (both grade 11 and 12) who met the math benchmark on the SAT |
-| **sat_pct_erw_benchmark**  |  *float*    | 2010 census | Percentage of students (both grade 11 and 12) who met the reading/writing benchmark on the SAT  |
-| **act_pct_21**  |  *float*    | 2010 census | Percentage of students at the school who scored a 21 or higher on the ACT |
-| **act_avgscore**  |  *float*    | 2010 census | Average ACT score of all students at the school |
-| **act_avg_read**  |  *float*    | 2010 census | Average ACT reading subscore of all students at the school |
-| **act_avg_math**  |  *float*    | 2010 census | Average ACT math subscore of all students at the school |
-| **act_avg_sci**  |  *float*    | 2010 census | Average ACT science subscore of all students at the school |
-| **act_avg_eng**  |  *float*    | 2010 census | Average ACT english subscore of all students at the school |
-| **county_no_hs**  |  *float*    | 2010 census | Percent of adults living in the given county who do not have a high school diploma |
-| **county_hs_only**  |  *float*    | 2010 census | Percent of adults living in the given county who have only a high school diploma |
-| **county_somecollege**  |  *float*    | 2010 census | Percent of adults living in the given county who have an associate's degree or some college |
-| **county_bachelorsplus**  |  *float*    | 2010 census | Percent of adults living in the given county who have a a bachelor's degree or higher|
-| **zip**  |  *object*    | 2010 census | 5 or 10-digit zipcode of school |
-| **latitude**  |  *float*    | 2010 census | latitude coordinates of school, used for mapping in tableau |
-| **longitude**  |  *float*    | 2010 census | longitude coordinates of school, used for mapping in tableau |
 
 
 <!-- CONTRIBUTING -->
@@ -179,6 +143,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 Rowan - [@rowanschaefer](https://linkedin.com/in/rowanschaefer) - rgscha02@gmail.com
+Emily - @emily https://emily
+Daniel - @daniel https://daniel
+Andy - @andy https://andy
 
 Project Link: [https://github.com/rowanschaefer/act_sat_analysis](https://github.com/rowanschaefer/act_sat_analysis)
 
