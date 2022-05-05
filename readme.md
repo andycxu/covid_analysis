@@ -115,6 +115,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <!-- EDA -->
 #### [EDA](https://www.github.com/link_to_our_EDA_notebook)
+<img src='https://cdn.dribbble.com/users/1579320/screenshots/6948631/media/5a358bb239bd9d441c39e985107985cd.png' alt="placeholder img" width="800" height="500"><br />
 
 Add brief overview of EDA steps here. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
