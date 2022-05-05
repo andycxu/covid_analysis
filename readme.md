@@ -72,9 +72,9 @@
 ### Data
 This dataset was sourced from Kaggle and ['https://www.kaggle.com/datasets/priteshraj10/covid-variants.csv'](compiled by Kaggle user Pritesh Raj.) Data in this dataset was retrieved from GISaid, a publicly available database for scientists.
 
-* [`www.gsaid.org`](gsaid.org): add info
-* [`www.covariants.org`](CoVariants.org): "CoVariants: SARS-CoV-2 Mutations and Variants of Interest."
-* Second dataset from https://ourworldindata.org/coronavirus, https://github.com/owid/covid-19-data
+* [`www.gsaid.org`]('https://gsaid.org') add info about what we used from this resource.
+* [`www.covariants.org`]('https://CoVariants.org') add info about what we used from this resource
+* [`ourworldindata.org/coronavirus`]('https://github.com/owid/covid-19-data') add info about what we used from this resource
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
