@@ -1,5 +1,6 @@
 <div id="top"></div>
 
+<div align="center">
 <!-- PROJECT SHIELDS -->
 
 [![Contributors][contributors-shield]][contributors-url]
@@ -7,6 +8,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn2][linkedin-shield]][linkedin-url]
+ </ div>
 
 <!-- PROJECT LOGO -->
 <br />
