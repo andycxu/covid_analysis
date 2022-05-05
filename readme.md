@@ -156,8 +156,10 @@ Andy - [linkedin](https://linkedin.com/in/andy) - [github](https://github.com/an
 Emily - [linkedin](https://linkedin.com/in/emily) - [github](https://github.com/emily) - emily@mail.com<br />
 Daniel - [linkedin](https://linkedin.com/in/daniel) - [github](https://github.com/daniel) - daniel@mail.com<br />
 
+++++ These links are wrong and need to be updated with correct info ++++
 
 Project Link: [https://github.com/rowanschaefer/act_sat_analysis](https://github.com/rowanschaefer/covid_analysis)
+
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
